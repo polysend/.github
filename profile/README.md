@@ -15,7 +15,7 @@ We believe digital interactions should be:
 ## 🛠️ Core Products
 
 ### 🔓 Open Source
-- **Chrome Extension** - Multi-wallet management, one-click payments, passwordless authentication
+- **[Chrome Extension](https://github.com/polysend/chrome-extension)** - Multi-wallet management, one-click payments, passwordless authentication
 - **Mobile App** - QR code payments, wallet sync, on-the-go management
 - **Authentication Libraries** - NPM packages for seamless wallet-based login integration
 - **Payment Libraries** - NPM packages for one-click payment integration
